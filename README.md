@@ -1,6 +1,5 @@
 ---
 title: Loan_approval_prediction
-emoji: 🏦
 colorFrom: blue
 colorTo: green
 sdk: docker
