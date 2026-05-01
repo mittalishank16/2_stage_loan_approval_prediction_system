@@ -1,4 +1,3 @@
----
 Link to huggingspace deployment: https://huggingface.co/spaces/mittalishank/Loan_approval_prediction
 
 # Loan Approval & Amount Prediction (MLOps Project)
