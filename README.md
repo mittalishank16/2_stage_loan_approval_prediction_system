@@ -1,12 +1,5 @@
 ---
-title: Loan_approval_prediction
-colorFrom: blue
-colorTo: green
-sdk: docker
-app_port: 7860
-pinned: false
----
-link to huggingspace deployment: https://huggingface.co/spaces/mittalishank/Loan_approval_prediction
+Link to huggingspace deployment: https://huggingface.co/spaces/mittalishank/Loan_approval_prediction
 
 # Loan Approval & Amount Prediction (MLOps Project)
 
